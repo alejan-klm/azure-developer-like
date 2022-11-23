@@ -1,0 +1,15 @@
+# Specifies your App Registration's Application ID:
+spring_cloud_azure_active-directory_credential_client-id=e24c26e5-503a-4715-a7a5-d7884d9317ff
+
+# Specifies your App Registration's secret key:
+spring_cloud_azure_active-directory_credential_client-secret=zTm8Q~ZOpCiDthOSP5lplFvC6nNLl-K1gxCFgdod
+
+
+## Cosmos DB
+# Specify the DNS URI of your Azure Cosmos DB_
+azure_cosmos_uri=https://hello-cosmosdb_documents_azure_com:443/
+# Specify the access key for your database_
+azure_cosmos_key=U3sbk2yuQQQ1zkGUTzduiLjPsp6IWdTGuSiYGP5h4uQtKD7B1X1YprCV60vOKYyBfIJfq27vV1vLACDbX5C6vw==
+# Specify the name of your database_
+azure_cosmos_database=UserFeedback
+azure_cosmos_populateQueryMetrics=false
